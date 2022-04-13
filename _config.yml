@@ -16,7 +16,7 @@ social:
 
 
 # # Theme Settings
-theme: jekyll-theme-persephone # https://github.com/erlzhang/jekyll-theme-persephone
+#theme: jekyll-theme-persephone # https://github.com/erlzhang/jekyll-theme-persephone
 
 # # Your site's logo. Will be shown on the left top of your page.
 # logo: /img/logo.svg
@@ -87,7 +87,8 @@ exclude:
    - .sass-cache/
    - .jekyll-cache/
    - docs/
-   - scripts
+   - scripts/
+   - theme_docs/
    - gemfiles/
    - Gemfile
    - Gemfile.lock
